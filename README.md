@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on pentesting, networking, structured cabling and Q&A stuff.<br>👯 I'm looking to learn and collaborate with companies that can give me the opportunity to work with them and learn in the process.<br>🌱 Currently, I'm learning from a learning roadmap to become an ethical and professional pentester and web security analyst, while also simultaneously diving into Q&A learning.
+💻 I'm currently working on pentesting, networking, structured cabling and Backend stuff.<br>👯 I'm looking to learn and collaborate with companies that can give me the opportunity to work with them and learn in the process.<br>🌱 Currently, I'm learning from a learning roadmap to become an ethical and professional pentester and web security analyst, while also simultaneously diving into Q&A learning.
 
 
 ## 🌐 Socials:
